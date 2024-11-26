@@ -15,15 +15,3 @@ A web-based **finance management application** built with **Streamlit**, allowin
   - **Altair**
   - **Plotly**
 
-
-## Installation
-
-### Prerequisites
-- Python 3.7 or higher
-- Pip (Python package manager)
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/finance-tracker.git
-   cd finance-tracker
